@@ -13,7 +13,7 @@ const colors = {
 };
 
 module.exports = {
-  name: "thanos",
+  name: "thanos-theme",
   displayName: "Thanos Theme",
   theme: {
     background: {

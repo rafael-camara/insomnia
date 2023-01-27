@@ -2,11 +2,11 @@
   "name": "insomnia-plugin-thanos-theme",
   "description": "A theme made by a Titan to conquer the universe",
   "version": "0.0.2",
+  "publisher": "rafael-camara",
   "author": {
     "name": "Rafael Câmara",
     "email": "rafaelcamara.377@gmail.com"
   },
-  "private": true,
   "license": "MIT",
   "homepage": "",
   "insomnia": {
@@ -17,5 +17,16 @@
       "icon": "logo.png"
     }
   },
-  "main": "main.js"
+  "main": "main.js",
+  "keywords": [
+    "thanos",
+    "thanos theme",
+    "thanos-theme",
+    "theme",
+    "purple",
+    "light",
+    "dark",
+    "infinity stones",
+    "infinity"
+  ]
 }
