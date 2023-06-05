@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img alt="Infinity Dark Variant Preview" src="./preview.png">
+  <img alt="Infinity Dark Variant Preview" src="https://raw.githubusercontent.com/rafael-camara/insomnia/main/.github/images/preview.png">
 </p>
 
 ## Install

@@ -29,4 +29,4 @@ To learn more, see the documentation at [Plugin File Location](https://docs.inso
 
 - After that, go to **Themes** (also under preferences) and apply the **Thanos** theme.
 - **Preview:**
-  ![Insomnia Preferences](./preferences.png)
+  ![Insomnia Preferences](https://raw.githubusercontent.com/rafael-camara/insomnia/main/.github/images/preferences.png)

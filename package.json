@@ -28,5 +28,15 @@
     "dark",
     "infinity stones",
     "infinity"
-  ]
+  ],
+  "scripts": {
+    "publish:npm": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafael-camara/insomnia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rafael-camara/insomnia/issues"
+  }
 }
